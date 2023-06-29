@@ -7,7 +7,7 @@ import NN_Enrich_Training
 
 def create_config():
     parameters_dict = {
-        'test_system':118,
+        'test_system':39,
         'hidden_layer_size': 20,
         'n_hidden_layers': 3,
         'epochs': 1000,
