@@ -21,7 +21,7 @@ def create_enrich_sweep_config():
     }
 
     parameters_dict = {
-        'test_system':{'value': 118},
+        'test_system':{'value': 39},
         'hidden_layer_size': {'value': 20},
         'n_hidden_layers': {'value': 3},
         'epochs': {'value': 600},
